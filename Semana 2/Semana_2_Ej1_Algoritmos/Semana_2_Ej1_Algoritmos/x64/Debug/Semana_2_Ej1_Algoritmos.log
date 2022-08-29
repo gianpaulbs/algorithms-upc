@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\Eclipse.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\main.cpp(11,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\main.cpp(26,9): warning C4101: 'continente': variable local sin referencia
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\main.cpp(25,9): warning C4101: 'tipo': variable local sin referencia
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\ArrEclipse.h(73): warning C4715: 'ArrEclipse::obtenerElemento': no todas las rutas de acceso de control devuelven un valor
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\Utiles.h(151): warning C4700: se utilizó la variable local 'opcion' sin inicializar
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\Semana_2_Ej1_Algoritmos\main.cpp(33): warning C4700: se utilizó la variable local 'eclipse' sin inicializar
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_2_Ej1_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej1_Algoritmos\x64\Debug\Semana_2_Ej1_Algoritmos.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej3_Algoritmos\Semana_2_Ej3_Algoritmos\ArrContacto.h(75): warning C4715: 'ArrContacto::obtenerContacto': no todas las rutas de acceso de control devuelven un valor
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej3_Algoritmos\Semana_2_Ej3_Algoritmos\Utiles.h(145): warning C4700: se utilizó la variable local 'opcion' sin inicializar
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej3_Algoritmos\Semana_2_Ej3_Algoritmos\main.cpp(28): warning C4700: se utilizó la variable local 'contacto' sin inicializar
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_2_Ej3_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej3_Algoritmos\x64\Debug\Semana_2_Ej3_Algoritmos.exe

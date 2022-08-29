@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej2_Algoritmos\Semana_2_Ej2_Algoritmos\ArrPlato.h(64): warning C4715: 'ArrPlato::seleccionarPlato': no todas las rutas de acceso de control devuelven un valor
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej2_Algoritmos\Semana_2_Ej2_Algoritmos\ArrPlato.h(69): warning C4700: se utilizó la variable local 'acumPrecio' sin inicializar
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej2_Algoritmos\Semana_2_Ej2_Algoritmos\Utiles.h(106): warning C4700: se utilizó la variable local 'opcion' sin inicializar
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej2_Algoritmos\Semana_2_Ej2_Algoritmos\main.cpp(28): warning C4700: se utilizó la variable local 'plato' sin inicializar
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_2_Ej2_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\Semana_2_Ej2_Algoritmos\x64\Debug\Semana_2_Ej2_Algoritmos.exe
