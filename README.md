@@ -7,7 +7,7 @@ Intentaré resolver todos los ejercicios planteados hasta terminar el semestre e
   * Microsoft Visual C++
   * Visual Studio 2019/2022
 
-## [Contribution guidelines for this project](docs/CONTRIBUTING.md) Estado
+## Estado
 
   ### Semana 1
   ### Semana 2 
