@@ -1,13 +1,10 @@
 # Ejercicios desarrollados del curso de Algoritmos en la UPC
-Se presenta mi avance en el curso de Algoritmos mediante transcurran las semanas.
-Intentaré resolver todos los ejercicios planteados hasta terminar el semestre en la universidad.
+¡Hola! 😄 El objetivo del repositorio es registrar mi avance resolviendo los ejercicios propuestos del curso mediante transcurra las semanas en la universidad. Intentaré resolver todos los ejercicios hasta terminar el semestre. ;)
 
-## Requerimientos
-
+## 🔧・Requerimientos
   * Microsoft Visual C++
   * Visual Studio 2019/2022
 
-## Estado
-
+## 🟠・Estado
   ### Semana 1
   ### Semana 2 
