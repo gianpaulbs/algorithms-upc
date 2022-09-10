@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\Semana_4_Ej1_Algoritmos\Semana_4_Ej1_Algoritmos\main.cpp(17,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\Semana_4_Ej1_Algoritmos\Semana_4_Ej1_Algoritmos\main.cpp(31,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_4_Ej1_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\Semana_4_Ej1_Algoritmos\x64\Debug\Semana_4_Ej1_Algoritmos.exe
