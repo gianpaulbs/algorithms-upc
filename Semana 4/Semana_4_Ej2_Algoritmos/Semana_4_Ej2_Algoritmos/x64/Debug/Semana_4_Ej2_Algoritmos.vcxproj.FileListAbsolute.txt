@@ -1,0 +1,2 @@
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\Semana_4_Ej2_Algoritmos\Semana_4_Ej2_Algoritmos\x64\Debug\Semana_4_Ej2_Algoritmos.vcxproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\Semana_4_Ej2_Algoritmos\Semana_4_Ej2_Algoritmos\x64\Debug\Semana_4_Ej2_Algoritmos.vcxproj.SuggestedBindingRedirects.cache
