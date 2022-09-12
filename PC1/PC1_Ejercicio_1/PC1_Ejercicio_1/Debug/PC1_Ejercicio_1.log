@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Proyecto\source\repos\PC1_Ejercicio_1\PC1_Ejercicio_1\ListaProducto.h(47): warning C4715: 'ListaProducto::obtener_producto': not all control paths return a value
+C:\Users\Proyecto\source\repos\PC1_Ejercicio_1\PC1_Ejercicio_1\main.cpp(198): warning C4700: uninitialized local variable 'producto' used
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PC1_Ejercicio_1.vcxproj -> C:\Users\Proyecto\source\repos\PC1_Ejercicio_1\Debug\PC1_Ejercicio_1.exe

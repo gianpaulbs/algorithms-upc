@@ -1,0 +1,3 @@
+C:\Users\Proyecto\source\repos\PC1_Ejercicio2\PC1_Ejercicio2\Debug\PC1_Ejercicio2.vcxproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\PC1\PC1_Ejercicio_2\PC1_Ejercicio2\Debug\PC1_Ejercicio2.vcxproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 4\PC1\PC1_Ejercicio_2\PC1_Ejercicio2\Debug\PC1_Ejercicio2.vcxproj.SuggestedBindingRedirects.cache
