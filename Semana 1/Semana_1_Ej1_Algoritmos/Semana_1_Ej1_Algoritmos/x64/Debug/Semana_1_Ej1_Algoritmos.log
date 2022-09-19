@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 1\Semana_1_Ej1_Algoritmos\Semana_1_Ej1_Algoritmos\Contrasena.h(52,26): warning C4244: '=': conversión de 'short' a 'char'; posible pérdida de datos
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 1\Semana_1_Ej1_Algoritmos\Semana_1_Ej1_Algoritmos\main.cpp(7,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_1_Ej1_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 1\Semana_1_Ej1_Algoritmos\x64\Debug\Semana_1_Ej1_Algoritmos.exe
