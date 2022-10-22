@@ -1,0 +1,6 @@
+﻿  FrmFiguras.cpp
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 9\Semana_9_Ej2_Algoritmos\Semana_9_Ej2_Algoritmos\Triangulo.h(16,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 9\Semana_9_Ej2_Algoritmos\Semana_9_Ej2_Algoritmos\Triangulo.h(32,45): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 9\Semana_9_Ej2_Algoritmos\Semana_9_Ej2_Algoritmos\Triangulo.h(39,49): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  FrmFiguras.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Semana_9_Ej2_Algoritmos.vcxproj -> C:\Users\usuario\Desktop\Programacion\Proyectos de cursos\algoritmos-upc\Semana 9\Semana_9_Ej2_Algoritmos\x64\Debug\Semana_9_Ej2_Algoritmos.exe
