@@ -1,0 +1,3 @@
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Debug\PC2_Pregunta_1.vcxproj.AssemblyReference.cache
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Debug\PC2Pregunta1.Background.resources
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Debug\PC2_Pregunta_1.vcxproj.GenerateResource.cache

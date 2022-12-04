@@ -1,0 +1,29 @@
+﻿  Background.cpp
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomberman.h(68,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomberman.h(68,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomberman.h(72,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomberman.h(72,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Fantasma.h(43,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Fantasma.h(43,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Fantasma.h(47,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Fantasma.h(47,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(35,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(35,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(38,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(38,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(43,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Bomba.h(44,30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(29,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(33,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(39,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(43,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(60,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(70,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(79,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Controller.h(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Background.h(151,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Proyecto\Downloads\PC2_Pregunta_1\PC2_Pregunta_1\Background.h(151,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Background.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PC2_Pregunta_1.vcxproj -> C:\Users\Proyecto\Downloads\PC2_Pregunta_1\Debug\PC2_Pregunta_1.exe
